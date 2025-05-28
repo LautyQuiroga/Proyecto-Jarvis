@@ -99,13 +99,18 @@ nav{
 
 .flex-fighter{
     border: solid 5px black;
+    text-align: end;
     display: flex;
     justify-content: flex-end;
-    align-items: flex-start;
+    align-items: flex-start;}
 
-    
-    
-}
+    .flex-gears{
+        border: solid 5px black;
+        text-align: start;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
 
 .grid-galeria{
     background-color: black;
