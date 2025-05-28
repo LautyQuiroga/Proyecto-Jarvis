@@ -216,8 +216,8 @@ nav{
     grid-template-areas: 
     " header header"
     " aside aside"
-    "main main"
-    "footer footer"
+    " main"
+    " footer footer"
 
     ;
 }
