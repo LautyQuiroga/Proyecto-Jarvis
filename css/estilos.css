@@ -195,3 +195,10 @@ nav{
     font-family: fantasy;
     
 }
+
+/*RESPONSIVE*/
+@media (min-width: 1024px) {
+    body {
+        font-size: 20px;
+        padding: 30px;
+    }}
