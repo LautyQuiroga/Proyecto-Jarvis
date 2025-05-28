@@ -104,11 +104,10 @@ nav{
     align-items: flex-start;
     padding: 0%;}
 
-.flex-gears img{
-        width: 200px;
-        height: 200px;
-    }
+
 .flex-gears{
+    width: 200px;
+    height: 200px;
     text-align: start;
     display: flex;
     justify-content: flex-start;
