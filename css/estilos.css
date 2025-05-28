@@ -97,15 +97,7 @@ nav{
 
 /*-------GRIDS INDEX-------*/
 
-.flex-fighter{
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 0%;}
-.flex-fighter img{
-    width: 100%;
-    }
+
 
 .grid-galeria{
     background-color: black;
