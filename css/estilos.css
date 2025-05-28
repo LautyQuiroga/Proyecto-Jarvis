@@ -97,11 +97,13 @@ nav{
 
 /*-------GRIDS INDEX-------*/
 
-.halo{
+.flex-fighter{
     border: solid 5px black;
-    display: grid;
-    grid-template-rows: 200px 200px;
-    grid-template-columns: repeat( 2, 1fr )
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+
+    
     
 }
 
