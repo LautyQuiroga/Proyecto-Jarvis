@@ -105,14 +105,13 @@ nav{
     align-items: flex-start;
     padding: 0%;}
 
-    .flex-gears{
-        border: solid 5px black;
-        text-align: start;
-        display: flex;
-        justify-content: flex-start;
-        align-items: flex-start;
-        padding: 0%;
-    }
+.flex-gears{
+    border: solid 5px black;
+    text-align: start;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0%;}
 
 .grid-galeria{
     background-color: black;
