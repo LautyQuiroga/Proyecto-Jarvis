@@ -82,7 +82,6 @@ nav{
     justify-content: end;
 }
 .navbar{
-    text-decoration: none;
     text-decoration: underline;
     display: flex;
     justify-content: end;
