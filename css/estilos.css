@@ -143,12 +143,17 @@ nav{
     background-size: cover;
     background-position-y: top;}
 
-.fighter{
+.fighter img{
     background-color: black;
     border: solid 4px rgb(0, 0, 0);
     display: grid;
     grid-template-rows:1fr; /*filas*/
-    grid-template-columns: 100% ; /*columnas*/ 
+    grid-template-columns: 100% ; /*columnas*/
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-position-y: top; 
 }
 
 
