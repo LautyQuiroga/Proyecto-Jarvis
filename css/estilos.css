@@ -207,10 +207,10 @@ main p {
     background-color: red;
 }}
 
-@media screen and (max-width:758px){
+/*@media screen and (max-width:758px){
 
     .halo{ grid-template-areas: 
         "img img"
         "img img";
 }
-}
+}*/
