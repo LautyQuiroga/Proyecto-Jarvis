@@ -207,3 +207,8 @@ nav{
         justify-content: space-between;
     }
 }
+@media (min-width: 645px) {
+    .fighter {
+        width: 100%;
+    }
+}
