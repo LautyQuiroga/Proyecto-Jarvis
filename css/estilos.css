@@ -89,6 +89,8 @@ nav{
     display: flex;
     justify-content: flex-end;
     align-items: end;
+    padding: 0;
+    margin: 0;
 }
 
 
