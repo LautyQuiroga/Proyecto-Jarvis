@@ -198,7 +198,7 @@ nav{
 
 /*RESPONSIVE*/
 @media screen and (max-width:808px){
-    body{width: 100%;
+    .halo{width: 100%;
         margin: 0;}
 
 main p {
@@ -207,4 +207,8 @@ main p {
 
 @media screen and (max-width:758px){
 
+    .halo{ grid-template-areas: 
+        "img img"
+        "img img";
+}
 }
