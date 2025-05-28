@@ -147,7 +147,7 @@ nav{
     background-color: black;
     border: solid 4px rgb(0, 0, 0);
     display: grid;
-    grid-template-rows: repeat(1,600px); /*filas*/
+    grid-template-rows:1fr; /*filas*/
     grid-template-columns: 100% ; /*columnas*/ 
 }
 
