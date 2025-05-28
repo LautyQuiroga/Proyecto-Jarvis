@@ -197,8 +197,11 @@ nav{
 }
 
 /*RESPONSIVE*/
-@media (min-width: 1024px) {
-    body {
-        font-size: 20px;
-        padding: 30px;
-    }}
+@media screen and (max-width:808px){
+    body{width: 100%;
+        margin: 0;
+.barco {
+    background-color: blueviolet;
+}
+    }
+}
