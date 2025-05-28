@@ -205,3 +205,20 @@ nav{
 }
     }
 }
+
+@media screen and (max-width:758px){
+    .grid-galeria{
+    background-color: black;
+    border: solid 4px rgb(0, 0, 0);
+    display: grid;
+    grid-template-rows: repeat(12,600px); /*filas*/
+    grid-template-columns: 100% ; /*columnas*/ 
+    grid-template-areas: 
+    " header header"
+    " aside aside"
+    "main main"
+    "footer footer"
+
+    ;
+}
+}
