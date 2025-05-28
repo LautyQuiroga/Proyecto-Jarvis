@@ -201,7 +201,7 @@ nav{
 
 /*RESPONSIVE*/
 @media
-(min-width: 768px) {
+(min-width: 859px) {
     .navbar {
         flex-direction: row;
         justify-content: space-between;
