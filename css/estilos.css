@@ -83,7 +83,9 @@ nav{
 }
 .navbar{
     text-decoration: none;
-    text-align: end;
+    text-decoration: underline;
+    display: flex;
+    justify-content: end;
     background-color: white;
     color: black;
     font-size: 20px;
