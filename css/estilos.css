@@ -98,7 +98,6 @@ nav{
 /*-------GRIDS INDEX-------*/
 
 .flex-fighter{
-    border: solid 5px black;
     text-align: end;
     display: flex;
     justify-content: flex-end;
@@ -106,7 +105,6 @@ nav{
     padding: 0%;}
 
 .flex-gears{
-    border: solid 5px black;
     text-align: start;
     display: flex;
     justify-content: flex-start;
