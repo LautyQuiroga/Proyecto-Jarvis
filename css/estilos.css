@@ -70,13 +70,14 @@ nav{
     font-size: 25px;
 }
 
-/*.fighter{
+.fighter{
     width: 100%;
-    display: flex;
-    justify-content: start;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-position-y: top;}
     
-}
-.gears{
+/*.gears{
     width: 100%;
     display: flex;
     justify-content: end;
