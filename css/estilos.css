@@ -45,7 +45,7 @@ main p{
     
 }
 
-main img{
+.fighter{
     width: 700px;
     height: 400px;
 }
@@ -206,5 +206,5 @@ main p {
 }}
 
 @media screen and (max-width:758px){
-    
+
 }
