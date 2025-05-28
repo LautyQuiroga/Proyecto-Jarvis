@@ -101,7 +101,7 @@ nav{
     border: solid 5px black;
     display: grid;
     grid-template-rows: 200px 200px;
-    grid-template-columns: repeat( 3, 1fr )
+    grid-template-columns: repeat( 2, 1fr )
     
 }
 
