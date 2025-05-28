@@ -70,7 +70,7 @@ nav{
     font-size: 25px;
 }
 
-.fighter{
+/*.fighter{
     width: 100%;
     display: flex;
     justify-content: start;
@@ -80,7 +80,7 @@ nav{
     width: 100%;
     display: flex;
     justify-content: end;
-}
+}*/
 .navbar{
     text-decoration: underline;
     background-color: white;
