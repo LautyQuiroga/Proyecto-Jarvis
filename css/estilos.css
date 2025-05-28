@@ -197,10 +197,12 @@ nav{
 }
 
 /*RESPONSIVE*/
-@media screen and (max-width:808px){
-    .halo{width: 100%;
-        margin: 0;}
-
+@media screen and (max-width:800px){
+    .halo{width: auto;
+        margin: 0;
+        display: grid;
+    grid-template-rows: repeat(2,600px); }
+    
 main p {
     background-color: red;
 }}
