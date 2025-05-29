@@ -143,6 +143,11 @@ nav{
     background-size: cover;
     background-position-y: top;}
 
+.fighter{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 1fr;
+}
 .fighter div img{
     width: 100%;
     height: 100%;
