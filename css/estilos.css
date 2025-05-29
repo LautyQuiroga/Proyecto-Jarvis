@@ -70,18 +70,7 @@ nav{
     font-size: 25px;
 }
 
-/*.fighter{
-    width: 100%;
-    height: 100%;
-    background-position: center;
-    background-size: cover;
-    background-position-y: top;}
-    */
-/*.gears{
-    width: 100%;
-    display: flex;
-    justify-content: end;
-}*/
+
 .navbar{
     text-decoration: underline;
     background-color: white;
